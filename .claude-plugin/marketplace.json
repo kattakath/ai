@@ -10,7 +10,7 @@
     {
       "name": "claude-code-nix",
       "description": "Hooks for working on Nix flakes with Claude Code: auto-stage .nix writes so flake evaluation sees them, and flag hardcoded per-user home paths in .nix values.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Ismail Kattakath"
       },
