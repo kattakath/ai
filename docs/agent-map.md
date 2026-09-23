@@ -51,6 +51,8 @@ license: "Suggested: content CC BY 4.0 (https://creativecommons.org/licenses/by/
 
 *How an AI coding agent's discoveries become reusable routes: harvesting, indexing and pruning agent skills, with the research behind it.*
 
+> **Short on time?** Read the [reader's edition](agent-map-reader.md): the same story and lessons in about 2,900 words, with the full evidence left here.
+
 ## 1. TL;DR
 
 *Chart what an agent figures out once, route every later session through that chart, prune what nobody uses, and inherit other people's charts before drawing your own.*
