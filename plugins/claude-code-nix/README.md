@@ -56,7 +56,7 @@ both halves are proven against the same inputs.
 ## Install
 
 ```bash
-/plugin marketplace add kattakath/claude-plugins
+/plugin marketplace add kattakath/skills
 /plugin install claude-code-nix@kattakath
 ```
 
